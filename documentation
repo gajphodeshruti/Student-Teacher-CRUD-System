@@ -1,0 +1,7 @@
+Test the Captcha Directly
+Try accessing the captcha route directly in your browser:
+
+arduino
+Copy
+Edit
+http://127.0.0.1:8000/captcha/default
